@@ -1,8 +1,10 @@
-<img align="left" width="250" height="250" src="https://raw.githubusercontent.com/ChildhoodCancerSociety/.github/main/assets/logo/ccs-dev-logo.png" />
+<img align="left" width="180" height="180" src="https://raw.githubusercontent.com/ChildhoodCancerSociety/.github/main/assets/logo/ccs-dev-logo.png" />
 
 # [Childhood Cancer Society](https://www.childhoodcancersociety.org)
 
 Childhood Cancer Society (CCS) is a volunteer-run 501(c)(3) non-profit dedicated to helping families who are struggling with childhood cancer. From financial support to providing gifts/wish grants, our efforts support families battling pediatric cancer to maintain a mindset conducive to healing.
+
+Interested in lending a hand? Reach out to us at webdev@childhoodcancersociety.org or ibrahim@childhoodcancersociety.org;
 
 ---
 
