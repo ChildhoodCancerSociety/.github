@@ -1,4 +1,4 @@
-<img align="left" width="180" height="180" src="https://raw.githubusercontent.com/ChildhoodCancerSociety/.github/main/assets/logo/ccs-dev-logo.png" />
+<img align="left" width="200" height="200" src="https://raw.githubusercontent.com/ChildhoodCancerSociety/.github/main/assets/logo/ccs-dev-logo.png" />
 
 # [Childhood Cancer Society](https://www.childhoodcancersociety.org)
 
