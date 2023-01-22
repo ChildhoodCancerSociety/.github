@@ -1,4 +1,4 @@
-![CCS Dev Logo](https://github.com/ChildhoodCancerSociety/.github/blob/main/assets/logo/ccs-dev-logo.png?raw=true)
+![CCS Dev Logo](https://github.com/ChildhoodCancerSociety/.github/blob/main/assets/logo/ccs-dev-logo-sm.png?raw=true)
 
 # [Childhood Cancer Society](https://www.childhoodcancersociety.org)
 
