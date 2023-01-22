@@ -1,4 +1,4 @@
-![CCS Logo](assets/logo/ccs-logo-bordered.png)
+![CCS Logo](./../assets/logo/ccs-dev-logo.png)
 
 # [Childhood Cancer Society](https://www.childhoodcancersociety.org)
 
